@@ -7,7 +7,7 @@ Lecture Example Master File[^1] and [^2].
 
 1. create a prefab (showALot)
    - with physics (rigidBody)
-1. clone the prefab in the 3 room X/Y/Z (see code example)
+1. clone the prefab in the 3 room X/Y/Z  [(see code example)](./scripts/MultiObject.cs). 
    - Instantiate (clone)
    - get renderer
    - change color 
