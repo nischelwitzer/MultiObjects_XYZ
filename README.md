@@ -1,7 +1,7 @@
 # MultiObjects_XYZ "showALot"
 
 automatic 3D MultiObjects with physics in X/Y/Z in C# with Unity.
-Lecture Example Master File[^1].
+Lecture Example Master File[^1] and [^2].
 
 1. create a prefab (showALot)
    - with physics (rigidBody)
@@ -25,4 +25,6 @@ rend.material.SetColor("_Color", aColor);
 ```
 
 [^1]: \01_unity\0000_master_files\C#_v10\Assets\Scripts\Medien
+[^2]: \01_unity\2021_dmt3\ex11_codeing\Assets\Scripts\MultiObject.cs
+
 
