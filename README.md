@@ -10,8 +10,10 @@ Lecture Example Master File[^1].
    - get renderer
    - change color 
 
-## ShowALot
 
+## prefab: ShowALot 
+
+## C# Code: MultiObject.cs 
 ```
 GameObject clone;
 Vector3 goVector = new Vector3(runx, (runy+5)/5F, runz);
