@@ -3,6 +3,8 @@
 automatic 3D MultiObjects with physics in X/Y/Z in C# with Unity.
 Lecture Example Master File[^1] and [^2].
 
+<img src="./images/showALot.png" width="500">
+
 1. create a prefab (showALot)
    - with physics (rigidBody)
 1. clone the prefab in the 3 room X/Y/Z (see code example)
