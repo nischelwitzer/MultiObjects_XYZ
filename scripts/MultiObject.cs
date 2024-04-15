@@ -6,7 +6,6 @@ public class MultiObject : MonoBehaviour {
     public GameObject showALot;
     private Renderer   rend;
 
-    // Use this for initialization
     void Start () {
 
         int runx;
@@ -19,7 +18,6 @@ public class MultiObject : MonoBehaviour {
             for (runy = 1; runy < 20; runy++)
                 for (runz = -5; runz < 5; runz++)
                 {
-
                     // GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
                     // cube.AddComponent<Rigidbody>();
                     // cube.transform.position = new Vector3(x, y, 0);
@@ -35,11 +33,5 @@ public class MultiObject : MonoBehaviour {
 
                     // transform.position = goVector;
                 }
-
     }
-
-    // Update is called once per frame
-    void Update () {
-	
-	}
 }
