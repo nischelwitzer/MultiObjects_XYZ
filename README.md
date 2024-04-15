@@ -21,5 +21,5 @@ Color aColor = new Vector4((runx+5)/10F, (runy-1)/20F, (runz+5)/10F, 1);
 rend.material.SetColor("_Color", aColor);
 ```
 
-[^1] \01_unity\0000_master_files\C#_v10\Assets\Scripts\Medien
+[^1]: \01_unity\0000_master_files\C#_v10\Assets\Scripts\Medien
 
